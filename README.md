@@ -1,4 +1,4 @@
-# Crowded-scenes-Ensemble-classification
+# Crowded scenes Ensemble classification
 
 This is the companion repository for our paper titled "Classification ensembliste de vidéos de mouvements de foule" accepted for presentation at the french national conference [ORASIS 2021](https://orasis2021.sciencesconf.org/).
 The project is about the Ensemble classification of 10 crowd movements illustrated in the Crowd-11 dataset. The 11th class is intended for empty scenes.
